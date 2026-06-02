@@ -50,37 +50,6 @@ I'm a software engineering student passionate about building **scalable backend 
 [![DBs](https://skillicons.dev/icons?i=postgresql,mysql,mongodb,git,postman,vscode&theme=dark)](https://skillicons.dev)
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=bhavana4123&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
-    height="170"
-  />
-  &nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavana4123&theme=tokyonight&layout=compact&hide_border=true"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=bhavana4123&theme=tokyonight&hide_border=true"
-  />
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=bhavana4123&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4"
-  />
-</p>
-
 ---
 
 ## Experience
