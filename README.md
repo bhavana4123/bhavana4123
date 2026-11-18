@@ -73,7 +73,7 @@ An automated **4-stage pipeline** (ingestion → validation → transformation �
 ### 🌊 Kafka Transaction Processing System — *100+ transactions a minute, zero drama*
 `Spring Boot` `Kafka` `JPA` `H2`
 
-Built during the **JPMorgan Chase Software Engineering Virtual Experience**. An event-driven backend with Kafka producers and consumers, transaction validation, database persistence, and an external REST API for incentive calculation. Used embedded Kafka diagnostics to hunt down consumer group lag. 🕵️‍♀️
+An event-driven backend with Kafka producers and consumers, transaction validation, database persistence, and an external REST API for incentive calculation. Used embedded Kafka diagnostics to hunt down consumer group lag. 🕵️‍♀️
 
 ### 🎬 Movie Recommendation System — *"what should I watch tonight?" solved*
 `Python` `NLP` `Cosine Similarity` `Streamlit` `TMDB API`
