@@ -19,7 +19,7 @@ I like building things that move data fast and don't fall over: event-driven bac
 
 - 🌊 Currently obsessed with **Kafka**, consumer groups, and why lag is never your friend
 - 🤖 Believe a model isn't done until it's **deployed, versioned, and automated**
-- 🧩 **300+ LeetCode problems** solved, because arrays won't flip themselves
+- 🧩 **300+ DSA problems** solved, because arrays won't flip themselves
 - 🎯 Looking for **backend / full-stack** opportunities
 
 ---
