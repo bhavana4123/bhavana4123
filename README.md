@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Bhavana 👋</h1>
 
 <p align="center">
-  <b>Backend brain 🧠 · Event-stream enthusiast 🌊 · Occasional ML wizard 🪄</b><br>
+  <b>Backend brain 🧠 · Occasional ML wizard 🪄</b><br>
   B.Tech @ BV Raju Institute of Technology (2023–2027) · 📍 Hyderabad, India
 </p>
 
@@ -13,7 +13,7 @@
 
 ---
 
-## ✨ About Me
+## About Me
 
 I like building things that move data fast and don't fall over: event-driven backends, cloud-native apps, and ML pipelines that deploy themselves while I drink chai ☕.
 
